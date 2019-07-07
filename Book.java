@@ -24,7 +24,6 @@ public class Book {
 	}
 
 	// Finding words that are used in the book, but not found in the dictionary
-	// Writing all words used to file
 	public void findUnknownWords() {
 		try (BufferedReader br = new BufferedReader(new FileReader(bookPath));
 				FileWriter fwAll = new FileWriter("allWords.txt");
