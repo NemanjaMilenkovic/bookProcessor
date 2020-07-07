@@ -1,5 +1,3 @@
-This was made during my time at IT Bootcamp (Java)
-
 # bookProcessor
 
 An performance optimized book processing program that returnd metrics of different type.
