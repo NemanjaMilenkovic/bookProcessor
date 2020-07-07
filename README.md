@@ -1,6 +1,6 @@
 # bookProcessor
 
-A performance optimized book processing program that returnd metrics of different type.
+A performance optimized book processing program
 
 After the book and the dictionary are loaded, you can find:
 - a definition for every word in a book, 
